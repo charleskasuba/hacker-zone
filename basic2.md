@@ -1,5 +1,5 @@
 
-THE METHOD ZONE
+                                                                                  THE METHOD ZONE
 
 1. Invicti
 Invicti is a web application security scanning tool designed to automatically identify vulnerabilities like SQL Injection and XSS in web applications or services. It is available as a SaaS solution.
@@ -272,197 +272,23 @@ Kasuba Charles, [24/12/2024 5:32 pm]
 
 
 
-the method zone 
+                             the method zone 
 
 
 
-in kali linux we will find  
-
-1. Information Gathering (65+)
-Nmap
-Maltego CE
-theHarvester
-Dmitry
-Whois
-DNSRecon
-DNSEnum
-SSLScan
-Enum4Linux
-Traceroute
-IKEScan
-WhatWeb
-Fierce
-Amap
-
-
-3. Vulnerability Analysis (40+)
-OpenVAS
-Nessus (requires installation)
-Nikto
-WPScan
-SQLMap
-Bed
-Owasp Zap
-Yasat
-Cisco Torch
-Vega
-4. Web Application Analysis (50+)
-Burp Suite
-OWASP Zap
-SQLMap
-Nikto
-XSSer
-Wapiti
-Dirbuster
-DotDotPwn
-CMSMap
-Kadabra
-5. Exploitation Tools (60+)
-Metasploit Framework
-BeEF
-Armitage
-Searchsploit
-RouterSploit
-Commix
-SET (Social Engineering Toolkit)
-Fast-Track
-Rex
-Empire
-6. Password Attacks (45+)
-Hydra
-John the Ripper
-Hashcat
-Medusa
-THC-pptp-bruter
-CeWL
-Crunch
-Brutespray
-Chntpw
-PCredz
-7. Wireless Attacks (35+)
-Aircrack-ng
-Wifite
-Fern WiFi Cracker
-Kismet
-Reaver
-PixieWPS
-Cowpatty
-WPA WPS Tester
-Netdiscover
-EapHammer
-8. Reverse Engineering (30+)
-Ghidra
-Radare2
-Binwalk
-ApkTool
-Jadx
-OllyDbg
-Capstone
-Uncompyle6
-Dex2jar
-Flare
-9. Sniffing & Spoofing (40+)
-Wireshark
-Ettercap
-Bettercap
-Macchanger
-Tcpdump
-Driftnet
-Responder
-Dsploit
-DNSChef
-MITMf
-10. Post Exploitation (25+)
-PowerSploit
-Empire
-Metasploit
-Cobalt Strike (trial)
-Nishang
-Weevely
-Pupy
-Shellter
-CrackMapExec
-11. Forensics (35+)
-Autopsy
-Sleuth Kit
-Volatility
-Binwalk
-Foremost
-ExifTool
-Scalpel
-PDFid
-Yara
-Bulk Extractor
-12. Reporting Tools (20+)
-Faraday
-MagicTree
-CaseFile
-Dradis
-KeepNote
-Metagoofil
-Pipal
-Maltego CE
-13. Hardware Hacking (15+)
-USB Rubber Ducky Tools
-HackRF
-Rfcat
-Arduino IDE
-Androguard
-RFIDIOt
-CrazyRadio
-Ubertooth
-14. Social Engineering (20+)
-SET (Social Engineering Toolkit)
-SocialFish
-Evilginx
-Phishing Frenzy
-HiddenEye
-GoPhish
-KingPhisher
-Zphisher
-Shellphish
-15. Mobile Security (25+)
-ApkTool
-Jadx
-MobSF (Mobile Security Framework)
-AndroBugs
-Drozer
-Objection
-Frida
-DroidBox
-Dex2jar
-QARK
-
-16. Cryptography Tools (15+)
-GPG
-Ccrypt
-Hashcat
-John the Ripper
-Fcrackzip
-TrueCrypt
-OpenSSL
-Cryptsetup
-Steghide
-17. Miscellaneous (50+)
-Angry IP Scanner
-Zenmap
-Traceroute NG
-Maltego CE
-RainbowCrack
-Hashcat
-Aircrack-ng
-NetStumbler
-IKECrack
-Medusa
+in kali linux we will find  and others from github rep
 
 
 
+   ![image](https://github.com/user-attachments/assets/e081d2c9-1b05-49db-9385-3959c8123a57)
 
-  to break this down
 
-Here’s a detailed list of tools under Information Gathering in Kali Linux, categorized for clarity:
+![image](https://github.com/user-attachments/assets/44f36a26-2d0d-4b2f-966c-69832304b301)
 
-1. Information Gathering 
+   
+
+
+1. Information Gathering (30 Tools)
 Nmap
 Maltego CE
 theHarvester
@@ -493,6 +319,18 @@ Hping3
 Nexpose
 IPinfo
 Social-Engineer Toolkit (SET)
+
+
+
+
+
+
+
+
+
+
+
+
 2. Vulnerability Analysis (30 Tools)
 OpenVAS
 Nessus
@@ -524,7 +362,12 @@ Grabber
 Tinfoil Security
 WebInspect
 Greenbone Security Manager
-3. Web Application Analysis 
+
+
+
+
+
+3. Web Application Analysis (30 Tools)
 Burp Suite
 OWASP ZAP
 SQLMap
@@ -556,7 +399,12 @@ HTTrack
 JSPrime
 ModSecurity CRS
 
-4. Exploitation Tools 
+
+
+
+
+
+4. Exploitation Tools (30 Tools)
 Metasploit Framework
 BeEF
 Armitage
@@ -588,7 +436,11 @@ ShellNoob
 ExploitShellcode
 Reconnoitre
 
-5. Password Attacks 
+
+
+
+
+5. Password Attacks (30 Tools)
 Hydra
 John the Ripper
 Hashcat
@@ -620,7 +472,15 @@ Crowbar
 InstaBrute
 RockYou Wordlist
 
-6. Wireless Attacks 
+
+
+
+
+
+
+
+
+6. Wireless Attacks (30 Tools)
 Aircrack-ng
 Wifite
 Fern WiFi Cracker
@@ -652,7 +512,15 @@ OmniPeek
 OpenWIPS
 Wireless Security Auditor
 
-7. Reverse Engineering 
+
+
+
+
+
+
+
+
+7. Reverse Engineering (30 Tools)
 Ghidra
 Radare2
 Binwalk
@@ -684,7 +552,14 @@ Valgrind
 PEView
 ProcDump
 
-9. Sniffing & Spoofing
+
+
+
+
+
+
+
+8. Sniffing & Spoofing (30 Tools)
 Wireshark
 Ettercap
 Bettercap
@@ -716,7 +591,13 @@ p0f
 RawCap
 IPlog
 
-11. Post Exploitation 
+
+
+
+
+
+
+10. Post Exploitation (30 Tools)
 PowerSploit
 Empire
 Metasploit
@@ -747,3 +628,6 @@ LoadIt
 SudoKiller
 Certify
 Rubeus
+
+
+
