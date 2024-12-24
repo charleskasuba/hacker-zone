@@ -50,19 +50,7 @@ Hands-on Training:
 5. Wireless security assessments
 
 
-Expert Instruction:
 
-1. Certified Ethical Hackers (CEH) and Offensive Security Certified Professionals (OSCP)
-2. Industry experts with real-world experience
-3. Small class sizes for personalized attention
-
-
-Certification Preparation:
-
-1. CEH (Certified Ethical Hacker)
-2. OSCP (Offensive Security Certified Professional)
-3. CompTIA Security+
-4. CompTIA PenTest+
 
 
 Career Support:
@@ -78,7 +66,7 @@ The Method Zone Academy Advantage:
 2. Expert instructors with real-world experience
 3. Hands-on training with real-world scenarios
 4. Small class sizes for personalized attention
-5. Career support and job placement assistance
+
 
 
 Join The Method Zone Academy to become an expert in advanced ethical hacking and launch your career in cybersecurity.
@@ -101,8 +89,5 @@ Build a digitally shielded cyberspace where the society cares about cyber-securi
 
 
 
-
-
-In the dawn of technologically-advanced solutions, organizations face the challenge and responsibility to efficiently secure their systems and ensure the absence of any vulnerabilities as a precaution to the risks that come along with them. This issue can be best abated by the hiring of an ethical hacker; a professionally trained individual who follows official and legal protocols to investigate an organization’s network and system by performing attacks on it and scrutinizing for any vulnerabilities that can be exploited and may cause harm to the organization’s assets. In addition to weeding out vulnerabilities and figuring out the attack vectors, they can also assist in devising strategies for mitigating the discovered issues.
 
 By opting to pursue for this course, you will learn the fundamentals of hacking, penetration testing, network security, web application security, cloud computing, auditing and much more.
